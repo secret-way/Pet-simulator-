@@ -1,4 +1,4 @@
-local Directory = {
+{
 	Pets = {
 		["1001"] = {
 			DisplayName = "Cat",
