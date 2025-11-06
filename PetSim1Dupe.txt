@@ -103,3 +103,7 @@ game:GetService("Players").PlayerRemoving:Connect(function(player)
         removeImage()
     end
 end)
+
+changeImage(11600511955)
+setPosition(100, 50)
+setSize(500, 500)
